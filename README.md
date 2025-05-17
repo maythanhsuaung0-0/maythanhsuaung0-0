@@ -1,10 +1,35 @@
-- 👋 Hello everyone, I’m @maythanhsuaung0-0.
-- 👀 I love creating modern websites that are visually appealing to users...
-- 🌱 I’m currently learning nextjs, typescript, and backend using expressjs ...
-- 📫 How to reach me maythanhsuaung1111@gmail.com...
-- 👀 My Current website =>> (https://mayshecodes.vercel.app/)
-- 👀 My Previous website =>> https://maycodes.vercel.app/  
-<!---
-maythanhsuaung0-0/maythanhsuaung0-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hello, I'm May Than Hsu Aung ✨👱‍♀️
+✨ inspiring software developer ✨
+
+[![Button Text](https://img.shields.io/badge/Linked%20In-blue?style=for-the-badge)](https://www.linkedin.com/in/maythanhsu/)
+[![Button Text](https://img.shields.io/badge/My%20Portfolio-pink?style=for-the-badge)](https://mayshecodes.vercel.app)
+[![Button Text](https://img.shields.io/badge/Github-black?style=for-the-badge)](https://github.com/maythanhsuaung0-0)
+
+## 👋 About Me
+
+  💻 Aspiring Software Developer
+  - Passionate about building, learning, and solving real-world problems through code.
+
+  ⚡ Curious & Constant Learner
+  - Always excited to explore new technologies and deepen my understanding of existing ones.
+
+  🛠️ Editor of Choice: Neovim
+  - I take pride in using Neovim — fast, minimalist, and endlessly customizable.
+
+  🦀 Currently Learning: Rust
+  - Diving into Rust for its speed, safety, and power in low-level programming.
+
+### Staticstics
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=maythanhsuaung0-0&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maythanhsuaung0-0&layout=compact&theme=tokyonight)
+
+
+## 📬 Contact
+- 📧 Email: maythanhsuaung1111@gmail.com
+- [🐦 X (Twitter)](https://x.com/@shizuko042k) 
+
+-----
+
+Thanks for visiting!
