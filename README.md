@@ -26,7 +26,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maythanhsuaung0-0&layout=compact&theme=tokyonight)
 ## ⏳ Code Time
 
-🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
 <!--START_SECTION:waka-->
