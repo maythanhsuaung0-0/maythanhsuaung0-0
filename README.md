@@ -24,9 +24,22 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=maythanhsuaung0-0&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maythanhsuaung0-0&layout=compact&theme=tokyonight)
+## ⏳ Code Time
 
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+🔥 Editors: 
+<!--START_SECTION:waka-editors-->
+<!--END_SECTION:waka-editors-->
+
+💻 Operating System: 
+<!--START_SECTION:waka-os-->
+<!--END_SECTION:waka-os-->
+
 
 
 
