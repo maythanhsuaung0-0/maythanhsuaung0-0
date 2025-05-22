@@ -18,7 +18,11 @@
 
   🦀 Currently Learning: Rust
   - Diving into Rust for its speed, safety, and power in low-level programming.
-
+    
+## 📬 Contact
+- 📧 Email: maythanhsuaung1111@gmail.com
+- [🐦 X (Twitter)](https://x.com/@shizuko042k)
+  
 ### Staticstics
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=maythanhsuaung0-0&show_icons=true&theme=tokyonight)
@@ -110,20 +114,6 @@ MDX                      1 repo              █░░░░░░░░░░�
  Last Updated on 22/05/2025 17:32:14 UTC
 <!--END_SECTION:waka-->
 
-🔥 Editors: 
-<!--START_SECTION:waka-editors-->
-<!--END_SECTION:waka-editors-->
-
-💻 Operating System: 
-<!--START_SECTION:waka-os-->
-<!--END_SECTION:waka-os-->
-
-
-
-
-## 📬 Contact
-- 📧 Email: maythanhsuaung1111@gmail.com
-- [🐦 X (Twitter)](https://x.com/@shizuko042k) 
 
 -----
 
