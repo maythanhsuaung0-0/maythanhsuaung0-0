@@ -38,9 +38,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 58.3 kB Used in GitHub's Storage 
- > 
-> 🏆 127 Contributions in the Year 2025
+> 📦 58.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -111,7 +109,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/maythanhsuaung0-0/maythanhsuaung0-0/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2025 05:15:29 UTC
+ Last Updated on 24/05/2025 06:19:50 UTC
 <!--END_SECTION:waka-->
 
 
