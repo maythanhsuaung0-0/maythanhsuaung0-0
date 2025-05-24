@@ -32,15 +32,13 @@
 
 💬 Programming Languages: 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-138-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 58.2 kB Used in GitHub's Storage 
- > 
-> 🏆 127 Contributions in the Year 2025
+> 📦 58.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -111,7 +109,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/maythanhsuaung0-0/maythanhsuaung0-0/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2025 23:15:28 UTC
+ Last Updated on 24/05/2025 01:07:42 UTC
 <!--END_SECTION:waka-->
 
 
