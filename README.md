@@ -40,8 +40,6 @@
 
 > 📦 58.3 kB Used in GitHub's Storage 
  > 
-> 🏆 127 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 35 Public Repositories 
@@ -110,7 +108,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/maythanhsuaung0-0/maythanhsuaung0-0/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2025 21:16:07 UTC
+ Last Updated on 29/05/2025 22:15:24 UTC
 <!--END_SECTION:waka-->
 
 
