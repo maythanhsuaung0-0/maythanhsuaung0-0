@@ -106,13 +106,6 @@ Rust                     6 repos             ███░░░░░░░░�
 MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/maythanhsuaung0-0/maythanhsuaung0-0/main/assets/bar_graph.png)
-
-
  Last Updated on 19/06/2025 18:49:53 UTC
 <!--END_SECTION:waka-->
 
