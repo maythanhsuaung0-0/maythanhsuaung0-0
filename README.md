@@ -7,7 +7,7 @@
 
 ## 👋 About Me
 
-  💻 Aspiring Software Developer
+  💻 Diligent, Innovative Software Developer
   - Passionate about building, learning, and solving real-world problems through code.
 
   ⚡ Curious & Constant Learner
