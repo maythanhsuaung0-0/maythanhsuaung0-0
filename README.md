@@ -16,8 +16,8 @@
   🛠️ Editor of Choice: Neovim
   - I take pride in using Neovim — fast, minimalist, and endlessly customizable.
 
-  🦀 Currently Learning: Rust
-  - Diving into Rust for its speed, safety, and power in low-level programming.
+  📱 Currently learning - Mobile Development
+  - Learning React Native, Kotlin, and Flutter for creating useful, and innovative applications.
     
 ## 📬 Contact
 - 📧 Email: maythanhsuaung1111@gmail.com
