@@ -2,7 +2,7 @@
 ✨ inspiring software developer ✨
 
 [![Button Text](https://img.shields.io/badge/Linked%20In-blue?style=for-the-badge)](https://www.linkedin.com/in/maythanhsu/)
-[![Button Text](https://img.shields.io/badge/My%20Portfolio-pink?style=for-the-badge)](https://mayshecodes.vercel.app)
+[![Button Text](https://img.shields.io/badge/My%20Portfolio-pink?style=for-the-badge)](https://mayaung.vercel.app)
 [![Button Text](https://img.shields.io/badge/Github-black?style=for-the-badge)](https://github.com/maythanhsuaung0-0)
 
 ## 👋 About Me
