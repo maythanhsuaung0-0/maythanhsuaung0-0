@@ -32,6 +32,8 @@
 
 💬 Programming Languages: 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-591%20hrs%2051%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -110,7 +112,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/maythanhsuaung0-0/maythanhsuaung0-0/main/assets/bar_graph.png)
 
 
- Last Updated on 20/01/2026 16:15:25 UTC
+ Last Updated on 20/01/2026 19:49:10 UTC
 <!--END_SECTION:waka-->
 
 
