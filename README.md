@@ -75,21 +75,16 @@ Sunday                   444 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               51 mins             ██████████░░░░░░░░░░░░░░░   41.80 % 
-Java Properties          38 mins             ████████░░░░░░░░░░░░░░░░░   30.65 % 
-JSON                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-hyprlang                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   2 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-easyread                 1 hr 55 mins        ███████████████████████░░   92.74 % 
-Unknown Project          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +104,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/maythanhsuaung0-0/maythanhsuaung0-0/main/assets/bar_graph.png)
 
 
- Last Updated on 07/02/2026 19:05:13 UTC
+ Last Updated on 08/02/2026 19:07:18 UTC
 <!--END_SECTION:waka-->
 
 
