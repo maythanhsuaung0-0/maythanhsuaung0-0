@@ -1,5 +1,5 @@
 # Hello, I'm May Than Hsu Aung ✨👱‍♀️
-✨ inspiring software developer ✨
+✨ Software Engineer ✨
 
 [![Button Text](https://img.shields.io/badge/Linked%20In-blue?style=for-the-badge)](https://www.linkedin.com/in/maythanhsu/)
 [![Button Text](https://img.shields.io/badge/My%20Portfolio-pink?style=for-the-badge)](https://mayaung.vercel.app)
@@ -36,18 +36,6 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-**🐱 My GitHub Data** 
-
-> 📦 91.8 kB Used in GitHub's Storage 
- > 
-> 🏆 85 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 57 Public Repositories 
- > 
-> 🔑 19 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
